@@ -7,7 +7,7 @@ See [Project Description](https://drive.google.com/file/d/1C-pBnfbIPc5E5uAFEFfNw
 <p align="justify">The process of calculating tips at a restaurant is a difficult task And it gets more complicated if the amount is to be split into more than 1 people or if the amount is in decimals.</p>
 
 <p align="justify">TipCalculator solves all of these problem just input the bill amount, tip % you want to give and total number of people among whom the bill has to be split.  **TipCalculator is the key to your worries!** </p>
-
+<br/><br/>
 
 ## TipCalculator - A Tip Calculator and Splitter App for your Billing Needs.
 
