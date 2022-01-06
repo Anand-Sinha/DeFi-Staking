@@ -34,6 +34,7 @@ See [Project Description](https://drive.google.com/file/d/1C-pBnfbIPc5E5uAFEFfNw
 ### Desktop-App
 
 #### On App Open.
+<img align="left" src="https://raw.githubusercontent.com/Anand-Sinha/TipCalculator/main/README%20Files/First.png">
 ![Image](https://raw.githubusercontent.com/Anand-Sinha/TipCalculator/main/README%20Files/First.png)
 
 #### Integral Value Split between 2 people.
