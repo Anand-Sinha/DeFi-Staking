@@ -1,5 +1,5 @@
 # TipCalculator - A Tip Calculator and Splitter App for your Billing Needs.
-<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/Anand-Sinha/TipCalculator/main/README%20Files/TipCalc.png">
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/Anand-Sinha/TipCalculator/main/README%20Files/TipCalc.png">
 
 See
 - [Project Description](https://drive.google.com/file/d/1C-pBnfbIPc5E5uAFEFfNwY1IB6rDdqH0/view?usp=sharing)
