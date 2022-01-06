@@ -1,8 +1,7 @@
 # TipCalculator - A Tip Calculator and Splitter App for your Billing Needs.
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/Anand-Sinha/TipCalculator/main/README%20Files/TipCalc.png">
 
-See
-- [Project Description](https://drive.google.com/file/d/1C-pBnfbIPc5E5uAFEFfNwY1IB6rDdqH0/view?usp=sharing)
+See [Project Description](https://drive.google.com/file/d/1C-pBnfbIPc5E5uAFEFfNwY1IB6rDdqH0/view?usp=sharing)
 
 ### Our Problem
 <p align="justify">The process of calculating tips at a restaurant is a difficult task And it gets more complicated if the amount is to be split into more than 1 people or if the amount is in decimals.</p>
